@@ -10,6 +10,8 @@ import hello.core.order.OrderServiceImpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+import java.util.Scanner;
+
 public class OrderApp {
 
     public static void main(String[] args) {
